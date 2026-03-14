@@ -1,10 +1,10 @@
---- 
+---
 title: Ecom Fraud Shield
-emoji: 🚀
-colorFrom: red
-colorTo: orange
 sdk: streamlit
 sdk_version: "1.32.0"
+emoji: 🚀
+colorFrom: red
+colorTo: blue
 app_file: app.py
 pinned: false
 ---
