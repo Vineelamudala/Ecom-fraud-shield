@@ -2,13 +2,11 @@
 title: Ecom Fraud Shield
 emoji: 🚀
 colorFrom: red
-colorTo: red
+colorTo: orange
 sdk: streamlit
-app_port: 8501
-tags:
-  - streamlit 
+sdk_version: "1.32.0"
+app_file: app.py
 pinned: false
-short_description: Real-time e-commerce payment fraud detection
 ---
 
 
